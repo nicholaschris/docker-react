@@ -18,6 +18,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>I was changed!</p>
       </header>
     </div>
   );
